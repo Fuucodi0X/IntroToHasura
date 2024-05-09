@@ -1,6 +1,6 @@
 version: 3
 endpoint: http://localhost:8080
-admin_secret: suu
+admin_secret: admin_secret
 metadata_directory: metadata
 
 actions:
